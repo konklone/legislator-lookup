@@ -1,0 +1,47 @@
+body, h1, h3 {
+   font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+ul {
+   list-style-type: none;
+}
+
+.btn {
+  margin: 2%;
+}
+
+.center {
+  text-align: center;
+}
+
+.container {
+  margin-left: 33%;
+  margin-right:33%;
+  padding-top: 5%
+}
+
+#bills-list {
+  display: none;
+}
+
+#get-zip {
+  text-align: center;
+}
+
+#info-list {
+  display: none;
+}
+
+#name {
+  text-align: center;
+}
+
+#zip {
+	width: 50px;
+	text-align: center;
+}
+
