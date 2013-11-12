@@ -49,5 +49,3 @@ $(function() {
     return false;
   });
 });
-
-//api key d4e0c5f54e8a4f56b48bc4bb65e7acda
